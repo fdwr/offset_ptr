@@ -1,7 +1,7 @@
 
 # offset_ptr
 A simple library for working with raw pointers and foreign structs.
-The class provides a simple way to reclass structs from other processes and introduces a uniform interface for accessing the members, no mather whether you are using a internal, extrnal memory reader or something else.
+The class provides a simple way to reclass structs from other processes and introduces a uniform interface for accessing the members, no matter whether you are using a internal, external memory reader, or something else.
 
 # Example
 1. Typedef your pointer type:
